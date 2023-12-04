@@ -1,0 +1,9 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    row-gap: 50px ;
+    column-gap: 20px;
+}
+.grid-item {
+    background-color: aqua;
+}
